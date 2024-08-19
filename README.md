@@ -1,4 +1,4 @@
-Requirements :
+Requirements :/n
 streamlit==1.26.0
 PyPDF2==3.0.1
 google-generativeai==0.2.0
